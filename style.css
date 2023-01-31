@@ -140,6 +140,7 @@ nav a:hover{
   .div_gallery{
     position:relative;
     left: 2%;
+    Padding: 15px;
   }
   footer {
     font-size: small;
