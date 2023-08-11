@@ -57,8 +57,7 @@ header {
   /*header style animation end*/
 h3{
     text-align: left;
-    position: relative ;
-    left: 3%
+    margin-left: 3%;
 }
 h2{
    text-transform: none; 
@@ -138,9 +137,7 @@ nav a:hover{
   /* Add a dark background color to the active button */
 
   .div_gallery{
-    position:relative;
-    left: 2%;
-    Padding: 15px;
+    margin-left: 2%;
   }
   footer {
     font-size: small;
