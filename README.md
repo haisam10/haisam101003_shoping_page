@@ -1,4 +1,4 @@
-Webpage link= [https://s-te-sotero.netlify.app/](https://haisam10.github.io/haisam101003_shoping_page/)
+Webpage link= https://haisam10.github.io/haisam101003_shoping_page/
 
 <pre>
   ========== Developer Team ==========
